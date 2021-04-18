@@ -1,1 +1,1 @@
-# demo
+# one-credit-demo
